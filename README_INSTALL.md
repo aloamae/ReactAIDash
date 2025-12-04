@@ -11,12 +11,18 @@ Ce projet est une application **React/TypeScript** développée avec **Vite**, c
 ## 🛠 Prérequis
 - [Node.js](https://nodejs.org/) (version 18 ou supérieure)
 - npm (ou yarn)
-## création projet a vide 
+## création d'un projet a vide 
 npm create vite@latest . -- --template react-ts
 npm instal
 
+ou
+## création dans le projet GIT
+npm install -D vite@latest  --template react-ts
+## install graphique de ailwindcss postcss autoprefixer
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+
+
 
 
 ---
